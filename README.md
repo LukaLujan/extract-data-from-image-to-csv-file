@@ -1,5 +1,16 @@
 # Extract data from a .jpg file and convert it into the proper .csv format file
 
+
+First - sometimes parts of the jupyter code won't render properly on the github, in that case just copy paste github code link into this online aplication; 
+https://nbviewer.org/
+
+Anyway a first part is here;
+https://nbviewer.org/github/LukaLujan/extract-data-from-image-to-csv-file/blob/main/part1-image%20processing.ipynb
+
+And here is a second part;
+https://nbviewer.org/github/LukaLujan/extract-data-from-image-to-csv-file/blob/main/part2%20-tessarect_regex_and_pandas_csv.ipynb
+
+
 A main task of this project was to extract specific data from the pharmacy invoices(scanned documents in jpg or similar file format) and convert them to csv.file so they can be used in further analysis. 
 Invoices are  stored in a folder "zadaci". And there is an example "goal.jpg" how it should look like in the end. 
 I separated a task into two different jupyter notebook files.
